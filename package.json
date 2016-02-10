@@ -1,0 +1,31 @@
+{
+  "name": "winston-pushalot",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ir0ny1/winston-pushalot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ir0ny1/winston-pushalot/issues",
+    "email": "Dave@Develops.io"
+  },
+  "engines": {
+    "node": ">=5.0.0"
+  },
+  "description": "Pushalot Transport for Winston",
+  "main": "./winston-pushalot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "winston",
+    "transport",
+    "pushalot",
+    "logging"
+  ],
+  "author": "Dave Richer <dave@develops.io>",
+  "license": "MIT",
+  "devDependencies": {
+    "winston": "^2.1.1"
+  }
+}
